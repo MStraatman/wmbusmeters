@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.mk text eol=lf
+*.ac text eol=lf
+*.m4 text eol=lf
+*.xmq text eol=lf
+configure text eol=lf
+Makefile text eol=lf
